@@ -1,0 +1,86 @@
+boost_unorderedmap_int: 
+ 
+create start time: 1450596785782
+create end : 1450596787792
+create time elasped : 2010
+search start time: 1450596787792
+search end time: 1450596788237
+search time elasped : 445
+ 
+c++11unorderedmap_int: 
+ 
+create start time: 1450596788592
+create end : 1450596789095
+create time elasped : 503
+search start time: 1450596789095
+search end time: 1450596789153
+search time elasped : 58
+ 
+stlmap_int: 
+ 
+create start time: 1450596789260
+create end : 1450596790978
+create time elasped : 1718
+search start time: 1450596790979
+search end time: 1450596792119
+search time elasped : 1140
+ 
+ 
+ 
+boost_unorderedmap_string
+ 
+create start time: 1450596798995
+create end : 1450596801435
+create time elasped : 2440
+search start time: 1450596801435
+search end time: 1450596802783
+search time elasped : 1348
+ 
+c++11unorderedmap_string
+ 
+create start time: 1450596808068
+create end : 1450596810928
+create time elasped : 2860
+search start time: 1450596810928
+search end time: 1450596812265
+search time elasped : 1337
+ 
+stlmap_string
+ 
+create start time: 1450596817359
+create end : 1450596820844
+create time elasped : 3485
+search start time: 1450596820844
+search end time: 1450596823412
+search time elasped : 2568
+boost_unorderedmap_int: 
+ 
+create time elasped : 2290
+search time elasped : 495
+ 
+c++11unorderedmap_int: 
+ 
+create time elasped : 516
+search time elasped : 58
+ 
+stlmap_int: 
+ 
+create time elasped : 1692
+search time elasped : 1141
+ 
+ 
+ 
+boost_unorderedmap_string
+ 
+create time elasped : 2461
+search time elasped : 1375
+ 
+c++11unorderedmap_string
+ 
+create time elasped : 2841
+search time elasped : 1329
+ 
+stlmap_string
+ 
+create time elasped : 3601
+search time elasped : 2598
